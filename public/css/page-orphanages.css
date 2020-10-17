@@ -14,12 +14,12 @@ aside {
 }
 
 aside h2 {
-  font: 800 clamp(2rem, 5vw, 3.6rem) / 1.1 "Nunito", sans-serif;
+  font: 800 clamp(2rem, 5vw, 3.6rem)/1.1 'Nunito', sans-serif;
   margin-top: 6.4rem;
 }
 
 aside p {
-  font: 400 1.6rem/1.5 "Nunito", sans-serif;
+  font: 400 1.6rem/1.5 'Nunito', sans-serif;
   margin-top: 2.4rem;
 }
 
@@ -29,8 +29,7 @@ aside footer p {
 
 #mapid {
   animation-delay: 200ms;
-  height: 100%;
-  
+  height: 100%;  
   width: 100%;
 }
 

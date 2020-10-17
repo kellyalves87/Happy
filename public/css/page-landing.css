@@ -36,7 +36,7 @@ main h1 {
 .visit a {
   align-items: center;
   animation-delay: 250ms;
-  background: #ffb666;
+  background: #ffd666;
   border: none;
   border-radius: 3rem;
   display: flex;
@@ -79,7 +79,7 @@ main h1 {
     text-align: right;
   }
 
-  h1 {
+  main h1 {
     font-weight: bold;
     line-height: 0.88;
     margin: clamp(10%, 9vh, 12%) 0 4rem;
